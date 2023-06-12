@@ -2,7 +2,7 @@ export function Contato() {
   const email = "contato@mestrerpa.com.br";
   const telefone = "(00) 1234-5678";
   const endereco = "Sorocaba, São Paulo";
-  
+
   const redesSociais = [
     { nome: "LinkedIn", url: "https://www.linkedin.com/in/simaopedros/" },
     { nome: "GitHub", url: "https://github.com/simaopedros" },

@@ -12,8 +12,7 @@ export function Experiencia() {
         </h4>
         <p className="text-gray-500">Setembro 2022 - Presente</p>
         <p className="text-sm text-gray-600">
-          Descrição das responsabilidades e conquistas (a ser preenchida por
-          você)
+          
         </p>
       </div>
 
@@ -24,8 +23,7 @@ export function Experiencia() {
         </h4>
         <p className="text-gray-500">Junho 2022 - Setembro 2022</p>
         <p className="text-sm text-gray-600">
-          Descrição das responsabilidades e conquistas (a ser preenchida por
-          você)
+          
         </p>
       </div>
 
